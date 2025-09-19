@@ -11,5 +11,6 @@ public class Java_ {
         System.out.println("Soy dios y una patata");
         System.out.println("me gusta vegetta777");
         System.out.println("BBBBBBBBBBBBBBBBB");
+        System.out.println("Me he quedao sin ideas");
     }
 }
